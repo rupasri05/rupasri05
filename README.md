@@ -1,4 +1,4 @@
- Hi, I'm Rupa 👋
+ # Hi, I'm Rupa 👋
 
 🎓 CS Student passionate about building real-world tech projects  
 💻 Interested in Full Stack Development, AI, and Problem Solving  
