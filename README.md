@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Rupa 👋
 
-<!--
-**rupasri05/rupasri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student passionate about building real-world tech projects  
+💻 Interested in Full Stack Development, AI, and Problem Solving  
+🚀 Currently working on web apps, dashboards, and AI-based tools  
+🌱 Learning more about backend development, APIs, and databases  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React.js (familiar), HTML, CSS, JavaScript (basics)
+- Backend: Node.js, Express.js (familiar)
+- Database: PostgreSQL, MySQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🤖 AI-Powered Personalized Assistant
+- 📝 AI Exam Prep Quiz Generator
+- 💰 Expense Tracker with Budget Insights
+- ✅ Task Management App
+
+## Connect with Me
+- LinkedIn: www.linkedin.com/in/rupa-sri-561066303
